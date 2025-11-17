@@ -1,3 +1,5 @@
+e7f5724 Task 2.4
+09b4a44 Updated log.txt Task 2.3
 92f7761 Task 2.3
 95df0ab Updated log.txt Task 2.2
 6fb51f6 Task 2.2
